@@ -93,3 +93,6 @@ If you have run out of energy or time for your project, put a note at the top of
 
 ![Иллюстрация к проекту](https://github.com/BichevAlexandr/html-template-dashboard-crypto-crypto-currency-admin-html-main/raw/main/demo1.png)
 ![Иллюстрация к проекту](https://github.com/BichevAlexandr/html-template-dashboard-crypto-crypto-currency-admin-html-main/raw/main/demo2.png)
+![Иллюстрация к проекту](https://github.com/BichevAlexandr/html-template-dashboard-crypto-crypto-currency-admin-html-main/raw/main/demo3.png)
+![Иллюстрация к проекту](https://github.com/BichevAlexandr/html-template-dashboard-crypto-crypto-currency-admin-html-main/raw/main/demo4.png)
+![Иллюстрация к проекту](https://github.com/BichevAlexandr/html-template-dashboard-crypto-crypto-currency-admin-html-main/raw/main/demo5.png)
